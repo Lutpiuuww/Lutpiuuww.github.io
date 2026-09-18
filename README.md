@@ -1,44 +1,73 @@
-# Hi there, I'm **Muhammad Luthfi Fadil** 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&height=220&section=header&text=Welcome%20To%20My%20Profile!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-[![Visitor Badge](https://komarev.com/ghpvc/?username=Lutpiuuww&color=blue)](https://github.com/Lutpiuuww)
+<div align="center">
+  # Hi there! I'm Muhammad Luthfi Fadil 👋
+  
+  <!-- Animasi Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Student+at+Universitas+Malikussaleh;Tech+Enthusiast+%7C+Web+Developer;Building+Modern+Digital+Solutions" alt="Typing SVG" />
+  </a>
+  <br/>
+  
+  [![Visitor Badge](https://komarev.com/ghpvc/?username=Lutpiuuww&color=38BDF8&style=for-the-badge)](https://github.com/Lutpiuuww)
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+- 🎓 Currently studying at **Universitas Malikussaleh**.
+- 💻 Focused on building smart, modern, and functional applications.
+- 🔭 Currently exploring and deepening my knowledge in **Web Development** & **Software Engineering**.
+- 📫 Feel free to reach out: [**muhammadluthfiaja41@gmail.com**](mailto:muhammadluthfiaja41@gmail.com)
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<br/>
 
----
+## 🛠️ Tech Stack & Tools
 
-## 📈 GitHub Stats
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,php,html,css,git,github,vscode&perline=10" alt="Tech Stack" />
+</div>
 
-[![Lutpiuuww's Stats](https://github-readme-stats.vercel.app/api?username=Lutpiuuww&show_icons=true&theme=dark)](https://github.com/Lutpiuuww)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lutpiuuww&layout=compact&theme=dark)](https://github.com/Lutpiuuww)
+<br/>
 
----
+## 📊 GitHub Stats & Activity
 
-## ⭐ Pinned Repositories
-<p align="center">
-  <a href="https://github.com/Lutpiuuww/My-Portofolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lutpiuuww&repo=My-Portofolio&theme=dark" /></a>
-  <a href="https://github.com/Lutpiuuww/SISTEM-MANAJEMEN-OBSERVATORIUM-ASTRONOMI-DAN-JADWAL-PENGAMATAN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lutpiuuww&repo=SISTEM-MANAJEMEN-OBSERVATORIUM-ASTRONOMI-DAN-JADWAL-PENGAMATAN&theme=dark" /></a>
-  <a href="https://github.com/Lutpiuuww/nexus-command"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lutpiuuww&repo=nexus-command&theme=dark" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lutpiuuww&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutpiuuww&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
----
+<br/>
 
-## 📫 Get in Touch
+## ⭐ Featured Projects
 
-<a href="mailto:muhammadluthfiaja41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammad-luthfi-fadil-96bab3387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
+  <a href="https://github.com/Lutpiuuww/My-Portofolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lutpiuuww&repo=My-Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="My Portofolio" />
+  </a>
+  <a href="https://github.com/Lutpiuuww/SISTEM-MANAJEMEN-OBSERVATORIUM-ASTRONOMI-DAN-JADWAL-PENGAMATAN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lutpiuuww&repo=SISTEM-MANAJEMEN-OBSERVATORIUM-ASTRONOMI-DAN-JADWAL-PENGAMATAN&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sistem Manajemen" />
+  </a>
+  <a href="https://github.com/Lutpiuuww/nexus-command">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lutpiuuww&repo=nexus-command&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nexus Command" />
+  </a>
+</div>
 
----
+<br/>
 
-## 📊 Contribution Graph
+## 🔗 Let's Connect
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Lutpiuuww&theme=github" alt="GitHub activity graph" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-luthfi-fadil-96bab3387">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammadluthfiaja41@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&fontColor=ffffff" width="100%" />
+</div>
